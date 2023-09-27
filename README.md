@@ -4,14 +4,20 @@
 What you need to Run:
 You must have Gradle 6.3+ and Java 18+ installed. 
 
-Check you Gradle and Java versions by:
+Check your Gradle and Java versions by:
+
+
+
 gradle --version
 
 and
 
 java -version
 
-if you do not want to download gradle manually, you can also use the gradle wrapper. Here is a command you can use in terminal:
+
+
+
+If you do not want to download gradle manually, you can also use the gradle wrapper. Here is a command you can use in terminal:
 
 gradle wrapper --gradle-version 8.1.1
 
