@@ -24,3 +24,12 @@ gradle wrapper --gradle-version 8.1.1
 
 
 Once you have gradle and java properly installed, you can just run the program normally through intellij or through the terminal 
+
+
+# Discord Part
+Need to import Discord by using 
+pip install discord.py
+make sure you have an environment variable for my_secret = os.environ['token'] to securely secure you discord bot token
+** How to Create a Discord Bot (will help you get your token) **
+https://discordpy.readthedocs.io/en/stable/discord.html
+
